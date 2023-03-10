@@ -1,0 +1,16 @@
+D:\PGU\nadkin\ni\Lab_3\Lab_3\obj\Debug\Task.Form1.resources
+D:\PGU\nadkin\ni\Lab_3\Lab_3\obj\Debug\Lab_3.Properties.Resources.resources
+D:\PGU\nadkin\ni\Lab_3\Lab_3\obj\Debug\Task 3.csproj.GenerateResource.cache
+D:\PGU\nadkin\ni\Lab_3\Lab_3\obj\Debug\Task 3.csproj.CoreCompileInputs.cache
+D:\PGU\nadkin\ni\Lab_3\Lab_3\obj\Debug\Lab_3.exe
+D:\PGU\nadkin\ni\Lab_3\Lab_3\obj\Debug\Lab_3.pdb
+C:\Users\holya\OneDrive\Рабочий стол\Fore Nadekin\Lab_3\Lab_3\bin\Debug\Lab_3.exe.config
+C:\Users\holya\OneDrive\Рабочий стол\Fore Nadekin\Lab_3\Lab_3\bin\Debug\Lab_3.exe
+C:\Users\holya\OneDrive\Рабочий стол\Fore Nadekin\Lab_3\Lab_3\bin\Debug\Lab_3.pdb
+C:\Users\holya\OneDrive\Рабочий стол\Fore Nadekin\Lab_3\Lab_3\obj\Debug\Task 3.csprojAssemblyReference.cache
+C:\Users\holya\OneDrive\Рабочий стол\Fore Nadekin\Lab_3\Lab_3\obj\Debug\Lab_3.Form1.resources
+C:\Users\holya\OneDrive\Рабочий стол\Fore Nadekin\Lab_3\Lab_3\obj\Debug\Lab_3.Properties.Resources.resources
+C:\Users\holya\OneDrive\Рабочий стол\Fore Nadekin\Lab_3\Lab_3\obj\Debug\Task 3.csproj.GenerateResource.cache
+C:\Users\holya\OneDrive\Рабочий стол\Fore Nadekin\Lab_3\Lab_3\obj\Debug\Task 3.csproj.CoreCompileInputs.cache
+C:\Users\holya\OneDrive\Рабочий стол\Fore Nadekin\Lab_3\Lab_3\obj\Debug\Lab_3.exe
+C:\Users\holya\OneDrive\Рабочий стол\Fore Nadekin\Lab_3\Lab_3\obj\Debug\Lab_3.pdb
